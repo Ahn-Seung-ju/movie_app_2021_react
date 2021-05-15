@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "//ahn-seung-ju.github.io/movie_app_2021_react/static/css/main.09bfdc30.chunk.css",
+    "main.js": "//ahn-seung-ju.github.io/movie_app_2021_react/static/js/main.01402681.chunk.js",
+    "main.js.map": "//ahn-seung-ju.github.io/movie_app_2021_react/static/js/main.01402681.chunk.js.map",
+    "runtime-main.js": "//ahn-seung-ju.github.io/movie_app_2021_react/static/js/runtime-main.28955e7d.js",
+    "runtime-main.js.map": "//ahn-seung-ju.github.io/movie_app_2021_react/static/js/runtime-main.28955e7d.js.map",
+    "static/js/2.6ce27cae.chunk.js": "//ahn-seung-ju.github.io/movie_app_2021_react/static/js/2.6ce27cae.chunk.js",
+    "static/js/2.6ce27cae.chunk.js.map": "//ahn-seung-ju.github.io/movie_app_2021_react/static/js/2.6ce27cae.chunk.js.map",
+    "index.html": "//ahn-seung-ju.github.io/movie_app_2021_react/index.html",
+    "static/css/main.09bfdc30.chunk.css.map": "//ahn-seung-ju.github.io/movie_app_2021_react/static/css/main.09bfdc30.chunk.css.map",
+    "static/js/2.6ce27cae.chunk.js.LICENSE.txt": "//ahn-seung-ju.github.io/movie_app_2021_react/static/js/2.6ce27cae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28955e7d.js",
+    "static/js/2.6ce27cae.chunk.js",
+    "static/css/main.09bfdc30.chunk.css",
+    "static/js/main.01402681.chunk.js"
+  ]
+}
